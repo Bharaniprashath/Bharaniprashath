@@ -36,7 +36,7 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ### 💻 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Bharaniprashath&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-card.vercel.app/?username=JArPxFowlq&theme=radical" alt="LeetCode Stats" />
 </p>
 
 ---
