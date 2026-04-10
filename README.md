@@ -36,8 +36,6 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ### 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   
