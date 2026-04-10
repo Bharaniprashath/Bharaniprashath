@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm Bharani Prashath
+# Hi there 👋 I'm Bharaniprashath
 
-### 🚀 Full-Stack Developer & IoT Enthusiast
+### 🚀 Full-Stack Developer
 A Computer Science Engineering student focused on building scalable web applications and exploring the intersection of software and hardware.
 
 ---
