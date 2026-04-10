@@ -34,24 +34,33 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ---
 
+### 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Bharaniprashath&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharaniprashath&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharaniprashath&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
 </p>
+
+---
 
 ### 🏆 Achievements & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharaniprashath&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&margin-w=15&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Bharaniprashath&theme=radical&no-frame=false&margin-w=15&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
