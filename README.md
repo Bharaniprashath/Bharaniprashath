@@ -22,11 +22,9 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & Database**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -34,31 +32,15 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ---
 ### 💻 LeetCode Stats
-<p align="center">
-<img src="https://leetcode-stats-card.vercel.app/?username=JArPxFowlq&theme=radical" alt="LeetCode Stats" />
-</p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bharaniprashath&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharaniprashath&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
-</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JArPxFowlq?ext=heatmap)](https://leetcode.com/JArPxFowlq)
 
 ---
 
 ### 🏆 Achievements & Streaks
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharaniprashath&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Bharaniprashath&theme=radical&no-frame=false&margin-w=15&column=4" alt="GitHub Trophies" />
-</a>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharaniprashath&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
