@@ -22,12 +22,7 @@ A Computer Science Engineering student focused on building scalable web applicat
 
 ### 🛠️ Tech Stack & Tools
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=999999" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/> <img height="45" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="45" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="45" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=999999" /> <img height="45" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/> <img height="45" src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" /> <img height="45" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 ---
 ### 💻 LeetCode Stats
