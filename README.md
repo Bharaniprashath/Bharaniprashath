@@ -27,7 +27,7 @@ A Computer Science Engineering student focused on building scalable web applicat
 ---
 ### 💻 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JArPxFowlq?ext=heatmap)](https://leetcode.com/JArPxFowlq)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Bharaniprashath?ext=heatmap)](https://leetcode.com/Bharaniprashath)
 
 ---
 
