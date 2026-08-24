@@ -32,18 +32,13 @@ A Computer Science Engineering student focused on building scalable web applicat
 ---
 
 ### 🏆 Achievements & Streaks
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharaniprashath&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bharaniprashath)](https://git.io/streak-stats)
 
 ---
 
 ### 🌱 Currently Working On
-- 🔭 **Project:** EcoBazaarX — A Carbon Footprint Aware Shopping Assistant.
-- ⚡ **Learning:** Advanced Backend patterns and Open Source contribution workflows.
-- 🤖 **IoT:** Smart Plant Monitoring Systems using ESP32.
-
+- **DSA:** Learning DSA and Solving Problems on Leetcode.
+- **Java:** Learning Advanced Java.
 ---
 
 ### 📫 Connect with me
